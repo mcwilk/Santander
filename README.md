@@ -1,4 +1,4 @@
-# Bank dataset analysis
+# Bank dataset visualization
 
 ## Table of Contents
 * [General info](#general-info)
